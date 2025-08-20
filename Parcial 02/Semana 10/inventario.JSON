@@ -1,0 +1,26 @@
+{
+    "003": {
+        "id": "003",
+        "nombre": "Cartera",
+        "cantidad": 2,
+        "precio": 25.0
+    },
+    "005": {
+        "id": "005",
+        "nombre": "Marcador",
+        "cantidad": 12,
+        "precio": 5.75
+    },
+    "002": {
+        "id": "002",
+        "nombre": "Cuaderno",
+        "cantidad": 12,
+        "precio": 21.0
+    },
+    "006": {
+        "id": "006",
+        "nombre": "Jabon",
+        "cantidad": 3,
+        "precio": 2.5
+    }
+}
