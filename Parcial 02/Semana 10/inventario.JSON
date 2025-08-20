@@ -27,12 +27,12 @@
         "id": "001",
         "nombre": "Telefono",
         "cantidad": 5,
-        "precio": 750
-        },
+        "precio": 750.0
+    },
     "004": {
         "id": "004",
         "nombre": "Pera",
         "cantidad": 10,
-        "precio": 3.50
-        }
+        "precio": 3.5
     }
+}
