@@ -22,5 +22,11 @@
         "nombre": "Jabon",
         "cantidad": 3,
         "precio": 2.5
-    }
+    },
+    "001": {
+        "id": "001",
+        "nombre": "Telefono",
+        "cantidad": 5,
+        "precio": 750,
+        }
 }
