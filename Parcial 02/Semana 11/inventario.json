@@ -1,0 +1,56 @@
+[
+  {
+    "id": "001",
+    "nombre": "Cartera",
+    "cantidad": 6,
+    "precio": 27.8
+  },
+  {
+    "id": "002",
+    "nombre": "Pantaloneta",
+    "cantidad": 5,
+    "precio": 26.35
+  },
+  {
+    "id": "003",
+    "nombre": "Buso",
+    "cantidad": 4,
+    "precio": 26.45
+  },
+  {
+    "id": "004",
+    "nombre": "Camiseta",
+    "cantidad": 4,
+    "precio": 29.55
+  },
+  {
+    "id": "005",
+    "nombre": "Reloj",
+    "cantidad": 9,
+    "precio": 55.3
+  },
+  {
+    "id": "006",
+    "nombre": "Calcetines",
+    "cantidad": 12,
+    "precio": 24.25
+  },
+  {
+    "id": "007",
+    "nombre": "Pantalon",
+    "cantidad": 3,
+    "precio": 26.0
+  },
+  {
+    "id": "008",
+    "nombre": "Brasier",
+    "cantidad": 12,
+    "precio": 40.13
+  },
+  {
+    "id": "009",
+    "nombre": "Zapato",
+    "cantidad": 4,
+    "precio": 65.2
+  }
+]
