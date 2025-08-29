@@ -184,24 +184,28 @@ def menu():
             elif opcion == "5":
                 nombre = input_no_vacio("Nombre a buscar: ")
                 resultados = inventario.buscar_por_nombre(nombre)
-                imprimir_tabla(resultados)
+                if resultados:
+                    imprimir_tabla(resultados)
+                else:
+                    print("❌ No se encontró ningún producto.")
 
             elif opcion == "6":
                 imprimir_tabla(inventario.mostrar_todos())
 
             elif opcion == "7":
                 inventario.guardar_en_archivo(ARCHIVO)
-                print("Inventario guardado ✅")
+                print("Inventario guardado 💾")
 
             elif opcion == "0":
                 inventario.guardar_en_archivo(ARCHIVO)
-                print("Saliendo... Inventario guardado ✅")
+                print("Saliendo... Inventario guardado 👋")
                 break
             else:
-                print("Opción inválida.")
+                print("⚠ Opción inválida.")
 
         except Exception as e:
-            print(f"Error: {e}")
+            print(f"❌ Error: {e}")
 
+#  Ejecutar el programa
 if __name__ == "__main__":
     menu()
