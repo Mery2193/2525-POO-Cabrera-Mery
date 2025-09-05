@@ -1,0 +1,40 @@
+[
+    {
+        "nombre": "Sandra Herrera",
+        "id_usuario": "MJC001",
+        "libros_prestados": [
+            "J203"
+        ]
+    },
+    {
+        "nombre": "Betty Orellana",
+        "id_usuario": "MJC002",
+        "libros_prestados": [
+            "J200"
+        ]
+    },
+    {
+        "nombre": "Franklin Simancas",
+        "id_usuario": "MJC003",
+        "libros_prestados": [
+            "J205"
+        ]
+    },
+    {
+        "nombre": "Lisdany Castillo",
+        "id_usuario": "MJC004",
+        "libros_prestados": [
+            "J204"
+        ]
+    },
+    {
+        "nombre": "Jordy Guiz",
+        "id_usuario": "MJC005",
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Milena Roman",
+        "id_usuario": "MJC006",
+        "libros_prestados": []
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "categoria": "Epico",
+        "isbn": "J200"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "categoria": "Distopia",
+        "isbn": "J201"
+    },
+    {
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint Exupery",
+        "categoria": "Infantil",
+        "isbn": "J202"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "categoria": "Ciencia Ficcion",
+        "isbn": "J203"
+    },
+    {
+        "titulo": "Orgullo y Prejuicio",
+        "autor": "Jane Austen",
+        "categoria": "Romantica",
+        "isbn": "J204"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Clasico",
+        "isbn": "J205"
+    }
+]
