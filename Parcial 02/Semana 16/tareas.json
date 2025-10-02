@@ -1,0 +1,27 @@
+[
+    {
+        "descripcion": "Realizar las actividades de la universidad",
+        "completada": true,
+        "fecha_hora": "2025-10-22 08:15"
+    },
+    {
+        "descripcion": "Arreglar la casa con mi prima",
+        "completada": true,
+        "fecha_hora": "2025-10-24 07:05"
+    },
+    {
+        "descripcion": "Ir a visitar a mi abuelo",
+        "completada": true,
+        "fecha_hora": "2025-10-28 10:30"
+    },
+    {
+        "descripcion": "Lavar la ropa",
+        "completada": true,
+        "fecha_hora": "2025-10-01 14:35"
+    },
+    {
+        "descripcion": "Examen poo",
+        "completada": false,
+        "fecha_hora": "2025-10-07 10:00"
+    }
+]
